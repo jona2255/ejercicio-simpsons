@@ -1,0 +1,12 @@
+.cabecera, .crear-personaje {
+  margin-bottom: 20px;
+}
+input[type="number"] {
+  width: 50px;
+}
+button[type="submit"] {
+  margin-left: 15px;
+}
+.gif {
+  height: 100px;
+}
